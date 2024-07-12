@@ -1,2 +1,6 @@
 soft
 soft_v1
+__pycache__
+wandb
+runs
+adapter-tmp
